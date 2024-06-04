@@ -21,6 +21,7 @@
         ]
       },
       "locked": {
+        "lastModified": 1713262631,
         "narHash": "sha256-0Lt3DVImH3TpwUh7sDW/6Cxsrmo5DDG+SCuirBFquXs=",
         "owner": "efabless",
         "repo": "ioplace_parser",
@@ -41,6 +42,7 @@
         ]
       },
       "locked": {
+        "lastModified": 1713178934,
         "narHash": "sha256-1w6HBBE2bWAD0GM98O8WZRmZDW9+EzD0KFvnnH2ho/k=",
         "owner": "efabless",
         "repo": "libparse-python",
@@ -77,15 +79,15 @@
         "volare": "volare"
       },
       "locked": {
-        "lastModified": 1715082706,
-        "narHash": "sha256-OUaDO8RtK76NN3yuJZIwtel4kuRVmALkXJnTdMIeT8U=",
-        "owner": "efabless",
+        "lastModified": 1717498220,
+        "narHash": "sha256-5pG6WM1HEGpcgI3mZLTy/1KvZOql4GopEjYGi/cfxnY=",
+        "owner": "7FM",
         "repo": "openlane2",
-        "rev": "058a93dfacf5352abd06931c3e45fec08cfa468e",
+        "rev": "ed04b306fafb099fbd4f68e49576c9d4644d2ba1",
         "type": "github"
       },
       "original": {
-        "owner": "efabless",
+        "owner": "7FM",
         "ref": "dev",
         "repo": "openlane2",
         "type": "github"

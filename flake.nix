@@ -22,7 +22,7 @@
   };
 
   inputs = {
-    openlane2.url = github:efabless/openlane2/dev;
+    openlane2.url = github:7FM/openlane2/dev;
   };
 
   outputs = {
