@@ -79,11 +79,11 @@
         "volare": "volare"
       },
       "locked": {
-        "lastModified": 1717498220,
-        "narHash": "sha256-5pG6WM1HEGpcgI3mZLTy/1KvZOql4GopEjYGi/cfxnY=",
+        "lastModified": 1717499460,
+        "narHash": "sha256-9Co+pqjaYZ1uH0V/ltnVq/jgzPEtaLBSu4EMqbccWGc=",
         "owner": "7FM",
         "repo": "openlane2",
-        "rev": "ed04b306fafb099fbd4f68e49576c9d4644d2ba1",
+        "rev": "d4155e44ef0d4e5b380b0d75acf66193a1a37b08",
         "type": "github"
       },
       "original": {
